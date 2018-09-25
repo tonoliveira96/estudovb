@@ -1,0 +1,13 @@
+c:\users\tonno\documents\visual studio 2012\Projects\estudoprova\estudoprova\bin\Debug\estudoprova.exe.config
+c:\users\tonno\documents\visual studio 2012\Projects\estudoprova\estudoprova\bin\Debug\estudo.mdf
+c:\users\tonno\documents\visual studio 2012\Projects\estudoprova\estudoprova\bin\Debug\estudo_log.ldf
+c:\users\tonno\documents\visual studio 2012\Projects\estudoprova\estudoprova\bin\Debug\estudoprova.exe
+c:\users\tonno\documents\visual studio 2012\Projects\estudoprova\estudoprova\bin\Debug\estudoprova.pdb
+c:\users\tonno\documents\visual studio 2012\Projects\estudoprova\estudoprova\bin\Debug\estudoprova.xml
+c:\users\tonno\documents\visual studio 2012\Projects\estudoprova\estudoprova\obj\Debug\estudoprova.consulta.resources
+c:\users\tonno\documents\visual studio 2012\Projects\estudoprova\estudoprova\obj\Debug\estudoprova.formcadastro.resources
+c:\users\tonno\documents\visual studio 2012\Projects\estudoprova\estudoprova\obj\Debug\estudoprova.Resources.resources
+c:\users\tonno\documents\visual studio 2012\Projects\estudoprova\estudoprova\obj\Debug\estudoprova.vbproj.GenerateResource.Cache
+c:\users\tonno\documents\visual studio 2012\Projects\estudoprova\estudoprova\obj\Debug\estudoprova.exe
+c:\users\tonno\documents\visual studio 2012\Projects\estudoprova\estudoprova\obj\Debug\estudoprova.xml
+c:\users\tonno\documents\visual studio 2012\Projects\estudoprova\estudoprova\obj\Debug\estudoprova.pdb
